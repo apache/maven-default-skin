@@ -36,14 +36,19 @@ under the License.
   <description>Maven Default Skin</description>
 
   <scm>
-    <connection>scm:svn:http://svn.apache.org/repos/asf/maven/skins/trunk/maven-default-skin/</connection>
-    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/maven/skins/trunk/maven-default-skin/</developerConnection>
-    <url>http://svn.apache.org/viewvc/maven/skins/trunk/maven-default-skin/</url>
+    <connection>scm:git:https://gitbox.apache.org/repos/asf/maven-default-skin.git</connection>
+    <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/maven-default-skin.git</developerConnection>
+    <url>https://github.com/apache/maven-default-skin/tree/${project.scm.tag}</url>
+    <tag>HEAD</tag>
   </scm>
   <issueManagement>
     <system>jira</system>
     <url>https://issues.apache.org/jira/browse/MSKINS/component/12326472</url>
   </issueManagement>
+  <ciManagement>
+    <system>Jenkins</system>
+    <url>https://builds.apache.org/view/M-R/view/Maven/job/maven-default-skin/</url>
+  </ciManagement>
   <distributionManagement>
     <site>
       <id>apache.website</id>
