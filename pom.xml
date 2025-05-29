@@ -42,8 +42,8 @@ under the License.
     <tag>HEAD</tag>
   </scm>
   <issueManagement>
-    <system>jira</system>
-    <url>https://issues.apache.org/jira/issues/?jql=project%20%3D%20MSKINS%20AND%20component%20%3D%20%22Default%20Skin%22</url>
+    <system>GitHub Issues</system>
+    <url>https://github.com/apache/maven-default-skin/issues</url>
   </issueManagement>
   <ciManagement>
     <system>Jenkins</system>
