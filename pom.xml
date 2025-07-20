@@ -32,7 +32,7 @@ under the License.
   <artifactId>maven-default-skin</artifactId>
   <version>1.4-SNAPSHOT</version>
 
-  <name>Maven Default Skin</name>
+  <name>(RETIRED) Maven Default Skin</name>
   <description>Maven Default Skin</description>
 
   <scm>

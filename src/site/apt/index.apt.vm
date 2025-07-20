@@ -28,6 +28,8 @@
 
 ${project.name}
 
+<<<Note:>>> This skin is retired. It is no longer maintained.
+
  ${project.description}
 
  A {{{./sample/}sample site}} is provided to see the skin in action.
