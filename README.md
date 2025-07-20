@@ -21,7 +21,8 @@ RETIRED [Apache Maven Default Skin](https://maven.apache.org/skins/maven-default
 [![Maven Central](https://img.shields.io/maven-central/v/org.apache.maven.skins/maven-default-skin.svg?label=Maven%20Central)](https://search.maven.org/artifact/org.apache.maven.skins/maven-default-skin)
 
 This skin is retired. It is no longer maintained.
-======================
+
+**We recommend to use the [Maven Fluido Skin](https://maven.apache.org/skins/maven-fluido-skin/) instead.** 
 
 [license]: https://www.apache.org/licenses/LICENSE-2.0
 
